@@ -6,3 +6,5 @@ export default defineConfig({
   plugins: [react()],
   base: "/Photo-Gallary-from-React/",
 })
+
+
